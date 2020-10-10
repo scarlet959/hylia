@@ -1,6 +1,9 @@
 ---
 title: Thank you
 permalink: /thank-you/index.html
+metaTitle: Thank you | SharePoint Online Support
+metaDesc: Thank you for Contacting us. One of our colleagues will get back in
+  touch with you soon
 ---
 **Thanks for being awesome!**
 
