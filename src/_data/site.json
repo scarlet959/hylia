@@ -1,13 +1,13 @@
 {
-  "showThemeCredit": true,
-  "name": "Hylia Starter Kit",
-  "shortDesc": "Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.",
+  "showThemeCredit": false,
+  "name": "Microsoft Office 365 Support Portal",
+  "shortDesc": "Microsoft Office 365 Support Portal discussing various support issues on Office 365, SharePoint, SharePoint Online, OneDrive, Yammer, Teams etc...",
   "url": "https://hylia.website",
-  "authorEmail": "me@andy-bell.design",
-  "authorHandle": "@hankchizljaw",
-  "authorName": "Andy Bell",
-  "enableThirdPartyComments": false,
-  "maxPostsPerPage": 5,
+  "authorEmail": "kochi2ladakh2@gmail.com",
+  "authorHandle": "@kochi2ladakh",
+  "authorName": "Scarlet T",
+  "enableThirdPartyComments": true,
   "paymentPointer": "$ilp.uphold.com/MggmnFEyQqhk",
-  "faviconPath": "/images/favicon.png"
+  "faviconPath": "/images/favicon.png",
+  "maxPostsPerPage": 5
 }
