@@ -6,17 +6,17 @@
       "external": false
     },
     {
-      "text": "Contact",
-      "url": "/contact",
-      "external": false
-    },
-    {
       "text": "SharePoint",
       "url": "/sharepoint"
     },
     {
       "text": "OneDrive",
       "url": "/onedrive"
+    },
+    {
+      "text": "Contact",
+      "url": "/contact",
+      "external": false
     }
   ]
 }
