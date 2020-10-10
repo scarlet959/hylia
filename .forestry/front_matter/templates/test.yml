@@ -1,4 +1,20 @@
 ---
 label: test
 hide_body: false
-fields: []
+fields:
+- name: _b_
+  type: text
+  config:
+    required: false
+  label: b
+  description: bvmnvbvjhmvhkv
+- name: hh
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: hh
+  description: hgbkjbhlhuuj
